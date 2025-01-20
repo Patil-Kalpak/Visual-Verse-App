@@ -68,8 +68,7 @@ Chat with other users, send images from your gallery, and share posts.
 
 ###  Content Filtering
 Users can choose to hide their posts from under-18 users. Additionally, VisualVerse automatically recognizes and restricts sensitive content for accounts under the age of 18.
-
-<div align="center"> <img src="ss/Picturenew.jpg" width="220" > </div>
+ 
 
  ### Skilled Account
 A special account type with a rating system that is visible to others on the profile.
