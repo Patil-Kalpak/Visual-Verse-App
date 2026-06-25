@@ -115,7 +115,7 @@ Share VisualVerse via the official website on platforms like WhatsApp, Instagram
 6. Provide feedback and share the app with others.
 
 
-## App Download Link - https://visual-verse-app.vercel.app
+
 
 ## Developers
 
